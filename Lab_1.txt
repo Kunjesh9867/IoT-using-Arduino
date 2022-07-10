@@ -1,4 +1,4 @@
-Note : URL of Tinkercad id also contains the code.
+Note : Tinkercad URLs also contains the code.
 
 There are 3 levels in this Lab. URL of the levels are attached below :-
 
