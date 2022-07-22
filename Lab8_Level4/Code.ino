@@ -217,3 +217,4 @@ void loop()
     yes = check_for_button_yes(); // To check button2 for Yes, here yes will get a value when check_for_button_no run and finished
     questions();                  // function to ask the questions, questions is divided into 6 sub sections
 }
+
