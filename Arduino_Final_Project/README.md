@@ -4,7 +4,7 @@
 - Due to Covid, my course was online so I created Arduino circuits in Tinkercad web app. 
 - Every folder has atleast 2 files, one for Code and other for Circuit Diagram.
  - I used C++ programming for this course.
- - The live project can be found at my Tinkercad ID which can be available on request.
+ - The live circuit can be found at my Tinkercad ID which can be available on request.
  
  ## Programming Language and Technologies used
  - [x] C++
