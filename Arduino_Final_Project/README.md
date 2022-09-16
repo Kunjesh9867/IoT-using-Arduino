@@ -1,4 +1,4 @@
-# College Student Registration App
+# IoT_using_Arduino
 ## Introduction
 - In this repository, I have attached all my arduino files which I was taught in my IoT using Arduino course.
 - Due to Covid, my course was online so I created Arduino circuits in Tinkercad web app. 
